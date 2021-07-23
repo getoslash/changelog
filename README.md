@@ -16,29 +16,29 @@ We’re introducing a brand new **Slack** integration – look up, discover, and
 
 1. A new Slack app
 
-* Add the brand new OSlash Slack app to your workspace to get all the Shortcut goodness right inside Slack. Note that this feature is being gradually rolled out to customers globally.
+    Add the brand new OSlash Slack app to your workspace to get all the Shortcut goodness right inside Slack. Note that this feature is being gradually rolled out to customers globally.
 
 2. Layout & usability changes
 
-* Your private, public, & shared Shortcuts are now easier to search for and visually differentiate.
+    * Your private, public, & shared Shortcuts are now easier to search for and visually differentiate.
 
-* Quickly find your favourite Shortcut with the new Ctrl + F or ⌘ + F keyboard shortcut.
+    * Quickly find your favourite Shortcut with the new Ctrl + F or ⌘ + F keyboard shortcut.
 
-* Quickly switch your OSlash workspace with the new Ctrl + Alt + <number> or ⌘ + Option + <number> keyboard shortcut.
+    * Quickly switch your OSlash workspace with the new Ctrl + Alt + <number> or ⌘ + Option + <number> keyboard shortcut.
 
-* Now you can invite multiple folks to your OSlash workspace in one go.
+    * Now you can invite multiple folks to your OSlash workspace in one go.
 
 3. OSlash changelog
 
-* A new page that will display new product updates and features is now included in the extension. In fact, you’re reading this on that very page!
+    A new page that will display new product updates and features is now included in the extension. In fact, you’re reading this on that very page!
 
 4. Redesigned browser popup
 
-* We’ve listened to you, and the redesigned browser popup makes it faster and simpler to create a new shortcut or edit an existing one.
+    We’ve listened to you, and the redesigned browser popup makes it faster and simpler to create a new shortcut or edit an existing one.
 
 5. Support & help via Intercom
 
-* We’ve added a new help section in the Dashboard sidebar so it is easier for you to reach out to us.
+    We’ve added a new help section in the Dashboard sidebar so it is easier for you to reach out to us.
 
 #### 🛠 Bug fixes and improvements
 
