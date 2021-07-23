@@ -4,7 +4,7 @@
 
 ### Release date
 
-29<sup>th</sup> July, 2021
+29 July, 2021
 
 ### What’s in this release
 
