@@ -1,18 +1,16 @@
-# OSlash Changelog
+# V33
 
-## V33
-
-### Release date
+## Release date
 
 29 July, 2021
 
-### What’s in this release
+## What’s in this release
 
 ![OSlash 🤝 Slack](https://raw.githubusercontent.com/getoslash/changelog/main/assets/images/oslash-slack-epic-handshake.png)
 
 We’re introducing a brand new **Slack** integration – look up, discover, and share your OSlash Shortcuts with your Slack team. We’ve also been actively listening to user feedback; and so we’ve given the OSlash browser extension a fresh coat of paint – things are now easier to find and friendlier to navigate. And as always, we’ve included a whole host of fixes and improvements to make sure you can keep using OSlash carefree.
 
-#### ✨ Features
+### ✨ Features
 
 1. A new Slack app
 
@@ -22,9 +20,9 @@ We’re introducing a brand new **Slack** integration – look up, discover, and
 
     * Your private, public, & shared Shortcuts are now easier to search for and visually differentiate.
 
-    * Quickly find your favourite Shortcut with the new Ctrl + F or ⌘ + F keyboard shortcut.
+    * Quickly find your favourite Shortcut with the new `Ctrl + F` or `⌘ + F` keyboard shortcut.
 
-    * Quickly switch your OSlash workspace with the new Ctrl + Alt + <number> or ⌘ + Option + <number> keyboard shortcut.
+    * Quickly switch your OSlash workspace with the new `Ctrl + Alt + <number>` or `⌘ + Option + <number>` keyboard shortcut.
 
     * Now you can invite multiple folks to your OSlash workspace in one go.
 
@@ -40,7 +38,7 @@ We’re introducing a brand new **Slack** integration – look up, discover, and
 
     We’ve added a new help section in the Dashboard sidebar so it is easier for you to reach out to us.
 
-#### 🛠 Bug fixes and improvements
+### 🛠 Bug fixes and improvements
 
 * Previously deleted users can now be invited again! We’re sorry for this, because we sincerely believe in second chances.
 
