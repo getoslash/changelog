@@ -1,8 +1,8 @@
-# V33
+# v0.33
 
-## Release date
+## Released on
 
-29 July, 2021
+28 July, 2021
 
 ## What’s in this release
 
