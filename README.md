@@ -2,7 +2,7 @@
 
 ## Release on
 
-asasdsad
+14 August, 2021
 
 ## What's in this release
 
