@@ -44,7 +44,7 @@ We've fixed a bunch of minor bugs so you can keep using OSlash snag-free and but
 
 ## What's in this release
 
-![OSlash Input Widget](https://raw.githubusercontent.com/getoslash/changelog/main/assets/images/v1.6.0-oslash-input-widget.png)
+![OSlash Input Widget](https://raw.githubusercontent.com/getoslash/changelog/main/assets/images/v1.6.0-oslash-input-widget.gif)
 
 We've built a brand new input widget so you can take your OSlash Shortcuts to all your favorite places.
 
@@ -74,7 +74,7 @@ We love Firefox and everything that Mozilla stands for; so we now extend the lov
 
 ### 🛠 Bug fixes and improvements
 
-* The OSlash Pin is slightly smaller than the last version (PRO-185). We heard from a lot of users that it was a smidge too big, so we've made it a size that works for everyone.
+* The OSlash Pin is slightly smaller than the last version. We heard from a lot of users that it was a smidge too big, so we've made it a size that works for everyone.
 
 * When users were invited to an OSlash workspace, we used to create an additional personal workspace by default – we learnt from users that this was confusing, so we've stopped creating the personal workspace by default. Having said that, you can still create it yourself.
 
