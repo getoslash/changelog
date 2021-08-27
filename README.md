@@ -1,3 +1,59 @@
+# v1.8.0
+
+## Release on
+
+27 August, 2021
+
+## What's in this release
+
+![OSlash Private Toggle](https://raw.githubusercontent.com/getoslash/changelog/main/assets/images/v1.8.0-oslash-private-toggle.png)
+
+We've made it easier to create private Shortcuts by default. Also included are small but useful changes that improve the overall performance of the extension.
+
+### 🛠 Bug fixes and improvements
+
+* It is now easier to get into your OSlash collections – a single click of a collection will now instantly open it.
+
+* We've made it very easy for us to instantly spot errors that you might encounter. This will help us ship fixes faster!
+
+# v1.7.2
+
+## Release on
+
+21 August, 2021
+
+## What's in this release
+
+We've fixed a bunch of minor bugs so you can keep using OSlash snag-free and buttery-smooth.
+
+### ✨ Features
+
+1. Private Shortcut switch
+
+    You can now create private Shortcuts by default, using the handy Make Private toggle. Yay for Shortcuts just for you!
+
+2. Collection suggestions
+
+    Now when you create Shortcuts, OSlash will suggest similar Shortcut collections, in case you’d like to nest it under a specific one.
+
+# v1.6.0
+
+## Release on
+
+19 August, 2021
+
+## What's in this release
+
+![OSlash Input Widget](https://raw.githubusercontent.com/getoslash/changelog/main/assets/images/v1.6.0-oslash-input-widget.png)
+
+We've built a brand new input widget so you can take your OSlash Shortcuts to all your favorite places.
+
+### ✨ Features
+
+1. Input widget
+
+    Were you wishing OSlash was available in your own favorite apps? Your wish has now come true! With our input widget, you can now quickly pick and insert an OSlash Shortcut in your Gmail messages and [Linear](https://linear.app/) issues. We're also quickly adding support for more apps, so watch this space!
+
 # v1.5.0
 
 ## Release on
