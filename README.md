@@ -1,3 +1,19 @@
+# v1.0.0
+
+## Release on
+
+31 August, 2021
+
+## What's in this release
+
+The Slack app is now way more powerful, with easy-to-use actions for quickly sharing Shortcuts and useful information like who created them, how many times it has been accessed, etc.
+
+### 🛠 Bug fixes and improvements
+
+* You can also disconnect the Slack app if you'd want to, although that would make us incredibly sad.
+
+* Searching for your Shortcuts is now more robust, and we've put in some extra magic to make sure you always find the ones you're looking for.
+
 # v1.8.0
 
 ## Release on
